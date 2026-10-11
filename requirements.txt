@@ -1,0 +1,7 @@
+
+streamlit>=1.40
+pandas>=2.2
+Pillow>=10.0
+torch>=2.13
+open_clip_torch>=3.2
+plotly
