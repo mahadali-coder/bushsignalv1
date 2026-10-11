@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+.env
+.env.*
+
+# Model weights and caches
+*.pt
+*.pth
+*.onnx
+.cache/
+
+# macOS
+.DS_Store
