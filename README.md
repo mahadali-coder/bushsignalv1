@@ -45,4 +45,10 @@ streamlit run app.py
 
 BushSignal is still a prototype. Its priority scores are heuristic estimates, not scientifically validated risk assessments, and AI-generated suggestions need to be checked independently.
 
+## AI Use
+
+AI tools were used during development to assist with coding, debugging, and problem-solving. The project also includes an experimental image-analysis component using PyTorch and OpenCLIP. Its outputs should be treated as experimental rather than verified environmental identifications.
+
+The project is still under development, and its features and limitations should be evaluated through testing.
+
 The app uses a local SQLite database. Don't upload private observations, sensitive location data, or credentials to a public repository.
